@@ -13,6 +13,7 @@ If you use this github please cite:
   url       = {https://aclanthology.org/2022.lrec-1.168}
   }
 ## Folder structure
+```bash
 .
 ├── multiple-annotator/
 │   ├── 2016/
@@ -34,6 +35,7 @@ If you use this github please cite:
     ├── 2018
     ├── 2019
     └── 2020
+```
 ## Structure explain
 multiple-annotator is refer as MA in the paper.
 single-annotator is refer as SA in the paper.
